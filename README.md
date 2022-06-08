@@ -46,7 +46,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanyukselen&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
-
-------
-Credit: [erhanyukselen](https://github.com/erhanyukselen)
-Last Edited on: 06/06/2022
