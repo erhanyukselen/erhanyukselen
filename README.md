@@ -1,5 +1,8 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/erhanyukselen">Erhan Ali Yükselen</a></h1>
-    
+  
+## Software and Database Developer
+*💻 I am actively working in LTB jeans company 💻*
+
 ## Mechatronic Engineer
 🎓*Graduated from Istanbul Bahcesehir University in 2021.*
 
